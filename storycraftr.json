@@ -1,0 +1,12 @@
+{
+    "book_path": "La Purga de los dioses",
+    "book_name": "La Purga de los dioses",
+    "primary_language": "es",
+    "alternate_languages": [
+        "en"
+    ],
+    "default_author": "Rodrigo Estrada",
+    "genre": "science fiction",
+    "license": "CC BY-NC-SA",
+    "reference_author": "Brandon Sanderson"
+}

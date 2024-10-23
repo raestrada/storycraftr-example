@@ -1,0 +1,17 @@
+# History
+
+# Historia de "La Purga de los Dioses"
+
+En el oscuro mundo en el que se desarrolla "La Purga de los Dioses", la historia es una enredada telaraña de poder, ciencia disfrazada de magia, y manipulaciones despiadadas. El relato se sitúa en un futuro distante, donde la humanidad ha quedado dividida en dos castas principales: los Eternos y los Terrenales.
+
+Hace siglos, cuando el conocimiento de la nanotecnología y la biotecnología alcanzó su cúspide, aquellos en el poder comenzaron a utilizar estas herramientas avanzadas para alargar sus vidas y obtener habilidades que desafían la comprensión común. Esta élite gobernante, conocida como los Eternos, transformó sus cuerpos y mentes, asegurándose una posición similar a la de dioses. Su tecnología, incomprendida por la mayoría, fue percibida como magia, y ellos mismos fomentaron esta creencia para mantener control sobre la población.
+
+Los Eternos construyeron sus ciudades en torres que parecían tocar el cielo, separadas de los restos de la civilización que ahora habitaban los Terrenales. Durante generaciones, los Eternos gobernaron desde estas alturas, reforzando una sociedad donde el conocimiento verdadero se reservaba para unos pocos, mientras mantenían a los Terrenales bajo la ilusión de un poder místico y divino.
+
+Sin embargo, el cambio siempre llega, y llegó en la forma de un hombre llamado Zevid Rokchild. Perteneciente a una familia caída en desgracia entre los Eternos, Zevid observó desde su niñez la corrupción y la hipocresía que permeaban en ambos lados de la sociedad. Fue testigo del poder absoluto de los Eternos y del sufrimiento y la ignorancia de los Terrenales. A medida que crecía, comprendió que el verdadero poder no reside en la fuerza, sino en la capacidad de manipular y controlar a los demás【6:0†source】 .
+
+Zevid, desprovisto del poder físico de los Eternos, poseía una mente aguda y calculadora. Conocía el sistema desde dentro y lo despreciaba. Su odio no estaba dirigido solamente hacia los Eternos que lo rechazaron, sino también hacia los Terrenales que aceptaron su destino sin cuestionarse. Para él, ambos eran peones en un tablero que él mismo estaba decidido a controlar.
+
+Desde las sombras, Zevid comenzó a plantar las semillas de su rebelión. Para ello, aprovechó la ignorancia de los Terrenales, enseñándoles a manejar rudimentos del poder biotecnológico que los Eternos poseían, y haciéndoles creer que estaban utilizando magia verdadera. Creó la figura de un héroe inexistente, un símbolo para los Terrenales que les diera la esperanza que necesitaban para levantarse. Mientras tanto, Zevid continuaba tejiendo su telaraña de engaños y distracciones, preparando el camino hacia su propio ascenso  .
+
+Su objetivo era simple, aunque terriblemente oscuro: el control absoluto. Con la revolución en pleno auge y las ciudades de los Eternos en un caos autoinfligido, Zevid planeaba su verdadera conquista: destruir a los Eternos, someter a los Terrenales, y erigirse como el único poder verdadero. En un mundo donde la tecnología había eclipsado la moralidad, solo el control importaba. Zevid no buscaba justicia ni redención, sino el dominio total sobre la realidad que le había sido arrancada  .
