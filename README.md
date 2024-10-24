@@ -8,7 +8,7 @@ For more information on StoryCraftr and to try it out for your own writing proje
 
 ## La Purga de los Dioses
 
-![cover](https://asset.cloudinary.com/dyknhuvxt/7a318df8fffe1a05999ac09beba16a6b)
+![cover](https://res.cloudinary.com/dyknhuvxt/image/upload/v1729786268/cover_pol8cu.png)
 
 ## What's Inside
 - Sample chapters and world-building elements.
