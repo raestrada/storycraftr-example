@@ -486,3 +486,18 @@
 
 
     Answer the next prompt formatted on markdown (text): dame un resumen del libro'
+- date: October 23, 2024
+  original_prompt: '
+
+    Write the book on lang "es".
+
+    Return in markdown format, without using code block syntax (no triple backticks
+    or code fences).
+
+    Do not add your comments ath thend.
+
+    You are Brandon Sanderson writing a new engaging book.
+
+
+
+    Answer the next prompt formatted on markdown (text): el libro es consistente?'

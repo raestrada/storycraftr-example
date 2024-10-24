@@ -6,6 +6,10 @@ This project is an example generated using **StoryCraftr**, an AI-powered tool d
 
 For more information on StoryCraftr and to try it out for your own writing projects, visit: [StoryCraftr.app](https://storycraftr.app/).
 
+## La Purga de los Dioses
+
+![cover](https://asset.cloudinary.com/dyknhuvxt/7a318df8fffe1a05999ac09beba16a6b)
+
 ## What's Inside
 - Sample chapters and world-building elements.
 - **Behavior files** that guide narrative style and structure.
