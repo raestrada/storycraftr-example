@@ -6,6 +6,12 @@ This project is an example generated using **StoryCraftr**, an AI-powered tool d
 
 For more information on StoryCraftr and to try it out for your own writing projects, visit: [StoryCraftr.app](https://storycraftr.app/).
 
+## Download the Book
+
+- [Full Book in Spanish](https://github.com/raestrada/storycraftr-example/blob/main/books/libro_completo.pdf)
+- [Full Book in English](https://github.com/raestrada/storycraftr-example/blob/main/books/libro_completo_en.pdf)
+
+
 ## The Purge of the Gods
 
 ![cover](https://res.cloudinary.com/dyknhuvxt/image/upload/v1729786268/cover_pol8cu.png)
