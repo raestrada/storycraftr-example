@@ -6,7 +6,7 @@ This project is an example generated using **StoryCraftr**, an AI-powered tool d
 
 For more information on StoryCraftr and to try it out for your own writing projects, visit: [StoryCraftr.app](https://storycraftr.app/).
 
-## La Purga de los Dioses
+## The Purge of the Gods
 
 ![cover](https://res.cloudinary.com/dyknhuvxt/image/upload/v1729786268/cover_pol8cu.png)
 
@@ -17,21 +17,21 @@ For more information on StoryCraftr and to try it out for your own writing proje
   
 While this serves as an example, it also represents a real, ongoing book development effort.
 
-## Resumen del Libro: *La Purga de los Dioses*
+## Book Summary: *The Purge of the Gods*
 
-En un mundo distópico, donde la línea entre la tecnología avanzada y la magia se ha borrado, Zevid, un villano calculador, manipula las corrientes invisibles que controlan la sociedad. Sin poderes mágicos ni atributos físicos destacables, su verdadera fuerza reside en su capacidad para entender y prever cada movimiento de los demás, tejiendo una red de engaños a su alrededor.
+In a dystopian world where the line between advanced technology and magic has been erased, Zevid, a calculating villain, manipulates the invisible currents that control society. Without magical powers or notable physical attributes, his true strength lies in his ability to understand and foresee others’ every move, weaving a web of deceit around him.
 
-Marcado por un profundo rencor hacia las élites arrogantes y los trabajadores ignorantes, Zevid lidera secretamente una rebelión. Sin embargo, sus motivos no buscan la liberación o la justicia, sino la creación de un nuevo orden mundial a su imagen y semejanza. A través de meticulosos flashbacks, se revela una infancia opacada por la caída en desgracia de su familia, un evento que ha alimentado su odio y esculpido su crueldad.
+Marked by a deep resentment toward the arrogant elite and the ignorant workers, Zevid secretly leads a rebellion. However, his motives are not about liberation or justice but the creation of a new world order in his image. Through meticulous flashbacks, a childhood overshadowed by his family’s disgrace unfolds, fueling his hatred and sculpting his cruelty.
 
-Con una narrativa oscura e inmersiva, el lector es arrastrado al oscuro mundo interior de Zevid, mientras manipula desde las sombras, orquesta traiciones y desafía el equilibrio de poder. Su presencia es una amenaza para el tejido de su sociedad, una figura invisible que desafía la estructura mágica de un mundo olvidado por la tecnología.
+With a dark and immersive narrative, the reader is drawn into Zevid’s twisted world, where he manipulates from the shadows, orchestrates betrayals, and challenges the balance of power. His presence is a threat to the fabric of his society, an invisible figure challenging the magical structure of a world forsaken by technology.
 
-### Temas Principales:
+### Key Themes:
 
-El libro explora temas de manipulación, el espejismo del control y la ambición desmesurada por el poder absoluto. A medida que la trama se despliega, el lector experimenta una creciente inquietud al seguir a un protagonista sin redención, cuyo único propósito radica en la dominación y el control absoluto.
+The book explores themes of manipulation, the illusion of control, and the overwhelming ambition for absolute power. As the plot unfolds, the reader experiences a growing unease as they follow an irredeemable protagonist whose only purpose lies in domination and absolute control.
 
-### Conclusión:
+### Conclusion:
 
-En *La Purga de los Dioses*, el lector se enfrenta a la inquietante realidad de animar a un auténtico villano, explorando el lado más oscuro de la ambición y el deseo de poder. El mundo se transforma en un tablero de ajedrez, y Zevid es el maestro titiritero que mueve las piezas a su antojo, siempre dos pasos por delante, y dispuesto a destruirlo todo para cumplir su destino.
+In *The Purge of the Gods*, the reader confronts the unsettling reality of rooting for a true villain, exploring the darkest sides of ambition and the desire for power. The world becomes a chessboard, and Zevid is the master puppeteer, always two steps ahead, willing to destroy everything to fulfill his destiny.
 
 ## License
 
